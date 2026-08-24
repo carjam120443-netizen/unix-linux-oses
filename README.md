@@ -10,6 +10,7 @@ Here are some popular Linux distributions and their official websites:
 - [Debian](https://www.debian.org/) — Stable, versatile, and one of the foundations of many other Linux distributions.
 - [Fedora](https://fedoraproject.org/) — Modern Linux distribution backed by Red Hat and known for newer software.
 - [Arch Linux](https://archlinux.org/) — Minimal, highly customizable distribution with the Arch User Repository (AUR).
+- [CachyOS](https://cachyos.org/) — Performance-focused Arch-based distribution with optimized packages and kernels.
 - [Linux Mint](https://linuxmint.com/) — Beginner-friendly desktop distribution based on Ubuntu/Debian.
 - [openSUSE](https://www.opensuse.org/) — Linux family known for tools such as YaST and its different release models.
 - [Manjaro](https://manjaro.org/) — User-friendly Arch-based distribution with multiple desktop options.
@@ -18,6 +19,7 @@ Here are some popular Linux distributions and their official websites:
 - [Zorin OS](https://zorin.com/os/) — Desktop-focused distribution designed to make switching to Linux easier.
 - [Gentoo](https://www.gentoo.org/) — Highly customizable source-based Linux distribution.
 - [NixOS](https://nixos.org/) — Linux distribution built around declarative system configuration and the Nix package manager.
+- [Athena OS](https://athenaos.org/) — Arch-based Linux distribution focused on cybersecurity, privacy, and penetration-testing tools.
 
 ## 📁 Files & ISOs
 
