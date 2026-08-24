@@ -62,6 +62,20 @@ A central list of official websites for the operating systems documented in `REA
 | [MINIX 3](https://www.minix3.org/) | https://www.minix3.org/ | Small Unix-like operating system designed with an emphasis on reliability, modularity, and education. |
 | [SerenityOS](https://serenityos.org/) | https://serenityos.org/ | Unix-like hobby operating system built from scratch with its own desktop environment and applications. |
 
+🔒 Locked-Down & Security-Focused Operating Systems
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [Qubes OS](https://www.qubes-os.org/) | https://www.qubes-os.org/ | Security-focused operating system that isolates applications and tasks into separate virtual machines. |
+| [Tails](https://tails.net/) | https://tails.net/ | Privacy-focused Debian-based live operating system designed to leave as little trace as practical on the computer it runs from. |
+| [Whonix](https://www.whonix.org/) | https://www.whonix.org/ | Privacy-focused operating system designed around isolation and routing network traffic through Tor. |
+| [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/) | https://fedoraproject.org/atomic-desktops/silverblue/ | Immutable Fedora desktop using an image-based operating system model and atomic updates. |
+| [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/) | https://fedoraproject.org/atomic-desktops/kinoite/ | Immutable Fedora desktop built around KDE Plasma and an image-based update model. |
+| [openSUSE Aeon](https://aeondesktop.org/) | https://aeondesktop.org/ | Immutable, transactional openSUSE desktop designed around automated updates and a controlled base system. |
+| [Vanilla OS](https://vanillaos.org/) | https://vanillaos.org/ | Linux desktop operating system emphasizing immutability, atomic updates, and containerized workflows. |
+| [ChromeOS Flex](https://chromeos.google/products/chromeos-flex/) | https://chromeos.google/products/chromeos-flex/ | Google operating system for compatible PCs with a locked-down, cloud-focused desktop experience. |
+| [OpenBSD](https://www.openbsd.org/) | https://www.openbsd.org/ | BSD operating system with a strong focus on security, auditing, and secure defaults. |
+
 ## 🔄 Automatic Updates
 
 This file is regenerated automatically whenever `README.md` changes on `main`.
