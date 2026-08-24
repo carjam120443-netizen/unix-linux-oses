@@ -76,16 +76,17 @@ A central list of official websites for the operating systems documented in `REA
 | [ChromeOS Flex](https://chromeos.google/products/chromeos-flex/) | https://chromeos.google/products/chromeos-flex/ | Google operating system for compatible PCs with a locked-down, cloud-focused desktop experience. |
 | [OpenBSD](https://www.openbsd.org/) | https://www.openbsd.org/ | BSD operating system with a strong focus on security, auditing, and secure defaults. |
 
-🪟 Windows-Based Operating Systems
+🪟 Windows-Like & Windows-Compatible Linux Systems
 
 | Distribution | Official Website | Description |
 |---|---|---|
-| [ReactOS](https://reactos.org/) | https://reactos.org/ | Open-source operating system designed to be compatible with Windows applications and drivers while being developed independently. |
-| [Tiny Windows](https://tiny10.win/) | https://tiny10.win/ | Unofficial lightweight Windows project focused on reducing unnecessary components from Windows installations. |
-| [NTLite](https://www.ntlite.com/) | https://www.ntlite.com/ | Windows customization and deployment software used to create customized Windows installation images rather than a standalone operating system. |
-| [WinPE](https://learn.microsoft.com/windows-hardware/manufacture/desktop/winpe-intro) | https://learn.microsoft.com/windows-hardware/manufacture/desktop/winpe-intro | Microsoft's Windows Preinstallation Environment, a lightweight Windows environment commonly used for deployment, recovery, and maintenance. |
-| [Windows IoT Enterprise](https://learn.microsoft.com/windows/iot/iot-enterprise/) | https://learn.microsoft.com/windows/iot/iot-enterprise/ | Windows edition designed for specialized devices and embedded/industrial deployments. |
-| [Windows 11](https://www.microsoft.com/windows/windows-11) | https://www.microsoft.com/windows/windows-11 | Microsoft's current desktop Windows operating system and the basis for many customized Windows installation projects. |
+| [Zorin OS](https://zorin.com/os/) | https://zorin.com/os/ | Ubuntu-based Linux distribution with desktop layouts designed to make the transition from Windows easier. |
+| [Linuxfx (WindowsFX)](https://www.linuxfx.org/) | https://www.linuxfx.org/ | Ubuntu-based Linux distribution designed around a Windows-like desktop experience. |
+| [Wubuntu](https://wubuntu.org/) | https://wubuntu.org/ | Ubuntu-based Linux distribution designed to provide a familiar Windows-style desktop and workflow. |
+| [Q4OS](https://www.q4os.org/) | https://www.q4os.org/ | Debian-based Linux distribution that offers familiar, traditional desktop layouts and Windows-like customization options. |
+| [Freespire](https://www.freespire.org/) | https://www.freespire.org/ | Ubuntu-based Linux distribution focused on an accessible desktop experience for users familiar with traditional operating systems. |
+| [Feren OS](https://ferenos.weebly.com/) | https://ferenos.weebly.com/ | Ubuntu-based desktop Linux distribution focused on ease of use and a familiar graphical experience. |
+| [ReactOS](https://reactos.org/) | https://reactos.org/ | Open-source Windows-compatible operating system developed independently of Microsoft; included here because of its Windows compatibility, although it is **not Linux-based**. |
 
 ## 🔄 Automatic Updates
 
