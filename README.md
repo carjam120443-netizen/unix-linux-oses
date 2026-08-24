@@ -45,6 +45,46 @@ These distributions are good starting points for people who are new to Linux, es
 
 > 💡 **Tip:** Linux Mint, Zorin OS, and Ubuntu are especially approachable choices for a first Linux installation. Trying them in a VM first is a great way to experiment without changing your main system.
 
+## 🌀 Debian-Based Linux Distributions
+
+Debian-based distributions use Debian as their upstream or foundation. This family includes many of the most widely used Linux desktops and servers, and commonly uses the APT package management ecosystem.
+
+- [Ubuntu](https://ubuntu.com/) — One of the most popular Debian-derived distributions, with a huge software ecosystem and many official flavors.
+- [Linux Mint](https://linuxmint.com/) — Beginner-friendly desktop distribution based primarily on Ubuntu and Debian.
+- [Kali Linux](https://www.kali.org/) — Debian-based distribution focused on security testing and digital forensics.
+- [MX Linux](https://mxlinux.org/) — Debian-based distribution focused on stability, performance, and easy administration.
+- [elementary OS](https://elementary.io/) — Ubuntu-based desktop distribution with the Pantheon desktop environment.
+- [Deepin](https://www.deepin.org/) — Debian-based distribution known for its polished graphical desktop environment.
+- [Q4OS](https://www.q4os.org/) — Lightweight Debian-based distribution with a traditional desktop experience.
+- [antiX](https://antixlinux.com/) — Lightweight Debian-based distribution designed for older and lower-powered computers.
+- [Devuan](https://www.devuan.org/) — Debian fork focused on providing an init system choice without systemd as the default.
+- [Peppermint OS](https://peppermintos.com/) — Lightweight Ubuntu/Debian-based desktop distribution focused on a simple, efficient workflow.
+- [PureOS](https://pureos.net/) — Debian-based distribution focused on free software, privacy, and security.
+- [Parrot OS](https://www.parrotsec.org/) — Debian-based distribution designed for security, privacy, development, and forensics.
+- [Bodhi Linux](https://www.bodhilinux.com/) — Lightweight Ubuntu-based distribution using the Moksha desktop.
+- [Lubuntu](https://lubuntu.me/) — Official Ubuntu flavor using the lightweight LXQt desktop.
+
+> 💡 Debian-based does **not** mean every distro looks or works exactly like Debian. Different projects can use different desktops, kernels, repositories, installers, and configurations while still being part of the Debian family.
+
+## 🏹 Arch-Based Linux Distributions
+
+Arch-based distributions use Arch Linux as their upstream or foundation. They often use `pacman` and may provide access to the Arch User Repository (AUR), while adding their own installers, desktop configurations, kernels, repositories, or performance tweaks.
+
+- [Arch Linux](https://archlinux.org/) — The upstream distribution itself, known for minimalism, customization, and the AUR.
+- [CachyOS](https://cachyos.org/) — Performance-focused Arch-based distribution with optimized packages, kernels, and system configurations.
+- [Manjaro](https://manjaro.org/) — User-friendly Arch-based distribution with graphical installers and multiple desktop editions.
+- [EndeavourOS](https://endeavouros.com/) — Lightweight Arch-based distribution designed to provide a relatively close-to-Arch experience with an easier installation process.
+- [Garuda Linux](https://garudalinux.org/) — Arch-based distribution with desktop-focused editions, performance tweaks, and graphical system tools.
+- [ArcoLinux](https://arcolinux.com/) — Arch-based project focused heavily on learning, customization, and different levels of installation complexity.
+- [RebornOS](https://rebornos.org/) — Arch-based distribution providing an easier graphical installation and a selection of desktop environments.
+- [BlackArch](https://www.blackarch.org/) — Arch-based penetration-testing distribution with a large collection of security tools.
+- [Athena OS](https://athenaos.org/) — Arch-based cybersecurity-oriented distribution with security and penetration-testing tools.
+- [Artix Linux](https://artixlinux.org/) — Arch-based distribution that offers alternatives to systemd and supports several init systems.
+- [Archcraft](https://archcraft.io/) — Minimal Arch-based desktop distribution focused on lightweight window-manager setups and customization.
+- [Vanilla Arch](https://archlinux.org/) — The upstream Arch Linux approach, emphasizing user configuration and a minimal base.
+
+> 💡 Arch-based does **not** mean every distro is simply Arch Linux with a different theme. Projects can make substantial changes to installers, repositories, kernels, defaults, and system management.
+
 ## 🪶 Lightweight Linux Distributions
 
 These distributions are included because their installation media is relatively small compared with many mainstream desktop Linux distributions. ISO sizes are approximate and can change between releases and editions.
