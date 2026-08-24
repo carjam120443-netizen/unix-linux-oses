@@ -21,6 +21,20 @@ Here are some popular Linux distributions and their official websites:
 - [NixOS](https://nixos.org/) — Linux distribution built around declarative system configuration and the Nix package manager.
 - [Athena OS](https://athenaos.org/) — Arch-based Linux distribution focused on cybersecurity, privacy, and penetration-testing tools.
 
+## 🪶 Lightweight Linux Distributions
+
+These distributions are included because their installation media is relatively small compared with many mainstream desktop Linux distributions. ISO sizes are approximate and can change between releases and editions.
+
+- [Tiny Core Linux](http://www.tinycorelinux.net/) — Extremely small Linux distribution, with editions ranging from tiny base images to larger desktop-capable images. ~20–250 MB depending on edition.
+- [SliTaz](https://www.slitaz.org/) — Very small and fast Linux distribution designed to run well on limited hardware. ~50 MB.
+- [Puppy Linux](https://puppylinux-woof-ce.github.io/) — Lightweight Linux family designed to be fast and portable. ~400–600 MB depending on edition.
+- [Alpine Linux](https://www.alpinelinux.org/) — Small, security-oriented Linux distribution commonly used for servers, containers, and minimal systems. Typically under 1 GB for installation media.
+- [antiX](https://antixlinux.com/) — Lightweight Debian-based distribution aimed at older and lower-powered computers. ~1 GB.
+- [Bodhi Linux](https://www.bodhilinux.com/) — Lightweight Ubuntu-based desktop distribution using the Moksha desktop. ~1 GB.
+- [Lubuntu](https://lubuntu.me/) — Lightweight Ubuntu flavor using the LXQt desktop environment. ~1.5–2 GB.
+- [MX Linux](https://mxlinux.org/) — Debian-based distribution focused on performance, stability, and ease of use. ~2–3 GB depending on edition.
+- [Linux Lite](https://www.linuxliteos.com/) — Beginner-friendly, lightweight Ubuntu-based desktop distribution. ~2–3 GB depending on release.
+
 ## 📁 Files & ISOs
 
 This repository may include ISO images, installation media, archives, and other OS-related files. These files are mainly intended for **VM testing, experimentation, and preservation**.
