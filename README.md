@@ -5,7 +5,7 @@
 
 # Unix & Linux OSes 🐧
 
-A collection of Unix-like, Linux, BSD, Unix-based, and Windows-based operating systems, useful for exploring different distributions, desktop environments, package managers, and OS projects. This repository also contains selected ISO images and other files for testing and experimentation.
+A collection of Unix-like, Linux, BSD, Unix-based, and Windows-like Linux operating systems, useful for exploring different distributions, desktop environments, package managers, and OS projects. This repository also contains selected ISO images and other files for testing and experimentation.
 
 ## 🌐 Popular Linux Distributions
 
@@ -79,18 +79,19 @@ These operating systems are designed with stronger security boundaries, reduced 
 - [ChromeOS Flex](https://chromeos.google/products/chromeos-flex/) — Google operating system for compatible PCs with a locked-down, cloud-focused desktop experience.
 - [OpenBSD](https://www.openbsd.org/) — BSD operating system with a strong focus on security, auditing, and secure defaults.
 
-## 🪟 Windows-Based Operating Systems
+## 🪟 Windows-Like & Windows-Compatible Linux Systems
 
-This section covers operating systems and distributions based on the Windows ecosystem, including Windows-derived projects, Windows PE environments, and systems built around the Windows kernel or Windows compatibility technologies.
+This section covers Linux and Unix-like systems that provide a Windows-familiar experience, Windows-style desktop environments, or strong Windows application compatibility. These are **not Microsoft Windows distributions**.
 
-- [ReactOS](https://reactos.org/) — Open-source operating system designed to be compatible with Windows applications and drivers while being developed independently.
-- [Tiny Windows](https://tiny10.win/) — Unofficial lightweight Windows project focused on reducing unnecessary components from Windows installations.
-- [NTLite](https://www.ntlite.com/) — Windows customization and deployment software used to create customized Windows installation images rather than a standalone operating system.
-- [WinPE](https://learn.microsoft.com/windows-hardware/manufacture/desktop/winpe-intro) — Microsoft's Windows Preinstallation Environment, a lightweight Windows environment commonly used for deployment, recovery, and maintenance.
-- [Windows IoT Enterprise](https://learn.microsoft.com/windows/iot/iot-enterprise/) — Windows edition designed for specialized devices and embedded/industrial deployments.
-- [Windows 11](https://www.microsoft.com/windows/windows-11) — Microsoft's current desktop Windows operating system and the basis for many customized Windows installation projects.
+- [Zorin OS](https://zorin.com/os/) — Ubuntu-based Linux distribution with desktop layouts designed to make the transition from Windows easier.
+- [Linuxfx (WindowsFX)](https://www.linuxfx.org/) — Ubuntu-based Linux distribution designed around a Windows-like desktop experience.
+- [Wubuntu](https://wubuntu.org/) — Ubuntu-based Linux distribution designed to provide a familiar Windows-style desktop and workflow.
+- [Q4OS](https://www.q4os.org/) — Debian-based Linux distribution that offers familiar, traditional desktop layouts and Windows-like customization options.
+- [Freespire](https://www.freespire.org/) — Ubuntu-based Linux distribution focused on an accessible desktop experience for users familiar with traditional operating systems.
+- [Feren OS](https://ferenos.weebly.com/) — Ubuntu-based desktop Linux distribution focused on ease of use and a familiar graphical experience.
+- [ReactOS](https://reactos.org/) — Open-source Windows-compatible operating system developed independently of Microsoft; included here because of its Windows compatibility, although it is **not Linux-based**.
 
-> ℹ️ The Windows ecosystem is different from Linux and BSD: many Windows variants are proprietary, while projects such as ReactOS are open source. Some entries here are tools or environments rather than independent operating systems.
+> ℹ️ Windows-like and Windows-compatible does not mean Windows-based. Most systems in this section use the Linux kernel or another open-source kernel and simply provide a familiar interface or compatibility layer.
 
 ## 📁 Files & ISOs
 
@@ -100,7 +101,7 @@ This repository may include ISO images, installation media, archives, and other 
 
 ## 🖥️ What You Can Do With This Repository
 
-- Test different Linux distributions, BSD systems, Unix-based operating systems, and Windows-based systems in a virtual machine
+- Test different Linux distributions, BSD systems, Unix-based operating systems, and Windows-like Linux systems in a virtual machine
 - Compare desktop environments and system tools
 - Explore different package managers and BSD ports/package systems
 - Learn about the history and different branches of the Unix family
