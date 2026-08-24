@@ -39,6 +39,20 @@ A central list of official websites for the operating systems documented in `REA
 | [Q4OS](https://www.q4os.org/) | https://www.q4os.org/ | Debian-based distribution designed to be easy to use and comfortable for users familiar with traditional desktop systems. |
 | [Manjaro](https://manjaro.org/) | https://manjaro.org/ | User-friendly Arch-based distribution that provides an easier introduction to the Arch ecosystem. |
 
+🪟➡️🐧 Best Linux Distros for People Moving From Windows
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [Linux Mint](https://linuxmint.com/) | https://linuxmint.com/ | One of the easiest transitions from Windows, especially with its traditional desktop layout and familiar menus. |
+| [Zorin OS](https://zorin.com/os/) | https://zorin.com/os/ | Specifically designed to make switching from Windows easier, with multiple familiar desktop layouts. |
+| [Kubuntu](https://kubuntu.org/) | https://kubuntu.org/ | Ubuntu with KDE Plasma, offering a highly customizable desktop that can be configured to feel very Windows-like. |
+| [Linux Lite](https://www.linuxliteos.com/) | https://www.linuxliteos.com/ | Lightweight Ubuntu-based distribution with a traditional desktop and simple graphical tools. |
+| [Q4OS](https://www.q4os.org/) | https://www.q4os.org/ | Lightweight Debian-based distribution with traditional desktop layouts that can feel comfortable to Windows users. |
+| [MX Linux](https://mxlinux.org/) | https://mxlinux.org/ | Stable Debian-based distribution with practical graphical administration tools and a familiar desktop workflow. |
+| [Ubuntu](https://ubuntu.com/) | https://ubuntu.com/ | Popular Debian-based choice with extensive documentation, community support, and a huge software ecosystem. |
+| [Fedora Workstation](https://fedoraproject.org/workstation/) | https://fedoraproject.org/workstation/ | Polished modern desktop Linux for users who want something different while still having a straightforward graphical experience. |
+| [CachyOS](https://cachyos.org/) | https://cachyos.org/ | A good option for Windows gamers who want to move toward Arch while keeping a ready-to-use desktop experience. |
+
 🌀 Debian-Based Linux Distributions
 
 | Distribution | Official Website | Description |
@@ -82,7 +96,6 @@ A central list of official websites for the operating systems documented in `REA
 | [Nobara Linux](https://nobaraproject.org/) | https://nobaraproject.org/ | Fedora-based desktop distribution with gaming, multimedia, and hardware-related improvements. |
 | [Garuda Linux](https://garudalinux.org/) | https://garudalinux.org/ | Arch-based distribution with gaming-focused editions and performance-oriented tools. |
 | [CachyOS](https://cachyos.org/) | https://cachyos.org/ | Performance-focused Arch-based distribution with optimized kernels and packages that can be useful for gaming. |
-| [Nobara Steam Deck Edition](https://nobaraproject.org/) | https://nobaraproject.org/ | Gaming-oriented Nobara variant designed around a console-like experience. |
 | [ChimeraOS](https://chimeraos.org/) | https://chimeraos.org/ | Linux gaming operating system designed for a console-like Steam experience on PCs. |
 | [SteamOS](https://www.steampowered.com/steamos/) | https://www.steampowered.com/steamos/ | Valve's Linux-based gaming operating system used on Steam Deck and designed around Steam. |
 | [HoloISO](https://github.com/HoloISO/holoiso) | https://github.com/HoloISO/holoiso | Community project inspired by the SteamOS experience for compatible PCs. |
