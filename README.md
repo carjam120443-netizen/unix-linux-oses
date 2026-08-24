@@ -112,6 +112,21 @@ This section covers Linux and Unix-like systems that provide a Windows-familiar 
 
 > ℹ️ Windows-like and Windows-compatible does not mean Windows-based. Most systems in this section use the Linux kernel or another open-source kernel and simply provide a familiar interface or compatibility layer.
 
+## 🍎 macOS-Like Linux & Unix Systems
+
+These systems provide a desktop experience inspired by macOS, including dock-style application launchers, top-panel layouts, polished graphical interfaces, or other macOS-inspired design choices. They are **not Apple operating systems** and do not require macOS.
+
+- [elementary OS](https://elementary.io/) — Ubuntu-based Linux distribution with the Pantheon desktop, strongly inspired by the simplicity and design language of macOS.
+- [CutefishOS](https://cutefish-idea.github.io/) — Linux desktop project that aimed for a clean, modern interface with several macOS-like design elements.
+- [PearOS](https://pearos.xyz/) — Linux project designed around a macOS-inspired desktop experience.
+- [Deepin](https://www.deepin.org/) — Debian-based Linux distribution known for its polished desktop environment, dock, and macOS-like visual elements.
+- [Ubuntu Budgie](https://ubuntubudgie.org/) — Ubuntu flavor using Budgie, which can be configured with a dock and panel layout resembling macOS.
+- [Zorin OS](https://zorin.com/os/) — Linux distribution with multiple desktop layouts, including configurations that can resemble macOS.
+- [KDE Plasma](https://kde.org/plasma-desktop/) — Linux/Unix desktop environment with extensive customization that can reproduce a macOS-style dock, panel, and workflow.
+- [GNOME](https://www.gnome.org/) — Linux/Unix desktop environment whose extensions and themes can provide a macOS-like workflow and dock.
+
+> ℹ️ **Note:** macOS-like refers to the look, layout, or workflow. These projects are independent of Apple, and their inclusion does not imply official Apple support or affiliation.
+
 ## 📁 Files & ISOs
 
 This repository may include ISO images, installation media, archives, and other OS-related files. These files are mainly intended for **VM testing, experimentation, and preservation**.
@@ -130,6 +145,6 @@ This repository may include ISO images, installation media, archives, and other 
 
 ## 📜 Disclaimer
 
-This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, Microsoft, or other companies and projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
+This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, Microsoft, Apple, or other companies and projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
 
 > **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes.
