@@ -45,6 +45,22 @@ These distributions are good starting points for people who are new to Linux, es
 
 > 💡 **Tip:** Linux Mint, Zorin OS, and Ubuntu are especially approachable choices for a first Linux installation. Trying them in a VM first is a great way to experiment without changing your main system.
 
+## 🪟➡️🐧 Best Linux Distros for People Moving From Windows
+
+If you're coming from Windows and want Linux to feel familiar, these are some of the easiest places to start. They generally offer familiar desktop layouts, graphical settings tools, easy software installation, and good hardware support.
+
+- [Linux Mint](https://linuxmint.com/) — One of the easiest transitions from Windows, especially with its traditional desktop layout and familiar menus.
+- [Zorin OS](https://zorin.com/os/) — Specifically designed to make switching from Windows easier, with multiple familiar desktop layouts.
+- [Kubuntu](https://kubuntu.org/) — Ubuntu with KDE Plasma, offering a highly customizable desktop that can be configured to feel very Windows-like.
+- [Linux Lite](https://www.linuxliteos.com/) — Lightweight Ubuntu-based distribution with a traditional desktop and simple graphical tools.
+- [Q4OS](https://www.q4os.org/) — Lightweight Debian-based distribution with traditional desktop layouts that can feel comfortable to Windows users.
+- [MX Linux](https://mxlinux.org/) — Stable Debian-based distribution with practical graphical administration tools and a familiar desktop workflow.
+- [Ubuntu](https://ubuntu.com/) — Popular Debian-based choice with extensive documentation, community support, and a huge software ecosystem.
+- [Fedora Workstation](https://fedoraproject.org/workstation/) — Polished modern desktop Linux for users who want something different while still having a straightforward graphical experience.
+- [CachyOS](https://cachyos.org/) — A good option for Windows gamers who want to move toward Arch while keeping a ready-to-use desktop experience.
+
+> 💡 **Easiest picks:** Linux Mint, Zorin OS, and Kubuntu are especially good starting points if you want Linux to feel familiar before exploring more advanced distributions.
+
 ## 🌀 Debian-Based Linux Distributions
 
 Debian-based distributions use Debian as their upstream or foundation. This family includes many of the most widely used Linux desktops and servers, and commonly uses the APT package management ecosystem.
@@ -92,7 +108,6 @@ These distributions are designed or configured with gaming in mind, often provid
 - [Nobara Linux](https://nobaraproject.org/) — Fedora-based desktop distribution with gaming, multimedia, and hardware-related improvements.
 - [Garuda Linux](https://garudalinux.org/) — Arch-based distribution with gaming-focused editions and performance-oriented tools.
 - [CachyOS](https://cachyos.org/) — Performance-focused Arch-based distribution with optimized kernels and packages that can be useful for gaming.
-- [Nobara Steam Deck Edition](https://nobaraproject.org/) — Gaming-oriented Nobara variant designed around a console-like experience.
 - [ChimeraOS](https://chimeraos.org/) — Linux gaming operating system designed for a console-like Steam experience on PCs.
 - [SteamOS](https://www.steampowered.com/steamos/) — Valve's Linux-based gaming operating system used on Steam Deck and designed around Steam.
 - [HoloISO](https://github.com/HoloISO/holoiso) — Community project inspired by the SteamOS experience for compatible PCs.
