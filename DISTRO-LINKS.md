@@ -50,6 +50,18 @@ A central list of official websites for the operating systems documented in `REA
 | [MidnightBSD](https://www.midnightbsd.org/) | https://www.midnightbsd.org/ | FreeBSD-derived desktop-oriented operating system. |
 | [HardenedBSD](https://hardenedbsd.org/) | https://hardenedbsd.org/ | Security-enhanced FreeBSD-derived operating system. |
 
+🖥️ Unix-Based Operating Systems
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [illumos](https://illumos.org/) | https://illumos.org/ | Open-source Unix operating system derived from OpenSolaris, providing a foundation for several modern systems. |
+| [OpenIndiana](https://www.openindiana.org/) | https://www.openindiana.org/ | Open-source Unix operating system based on illumos and descended from the OpenSolaris project. |
+| [Oracle Solaris](https://www.oracle.com/solaris/) | https://www.oracle.com/solaris/ | Enterprise Unix operating system with a long history in servers, storage, and large-scale systems. |
+| [AIX](https://www.ibm.com/it-infrastructure/power/os/aix) | https://www.ibm.com/it-infrastructure/power/os/aix | IBM's Unix operating system for IBM Power systems. |
+| [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) | https://www.hpe.com/us/en/servers/hp-ux.html | Hewlett Packard Enterprise's Unix operating system for supported enterprise systems. |
+| [MINIX 3](https://www.minix3.org/) | https://www.minix3.org/ | Small Unix-like operating system designed with an emphasis on reliability, modularity, and education. |
+| [SerenityOS](https://serenityos.org/) | https://serenityos.org/ | Unix-like hobby operating system built from scratch with its own desktop environment and applications. |
+
 ## 🔄 Automatic Updates
 
 This file is regenerated automatically whenever `README.md` changes on `main`.
