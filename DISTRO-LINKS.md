@@ -76,6 +76,17 @@ A central list of official websites for the operating systems documented in `REA
 | [ChromeOS Flex](https://chromeos.google/products/chromeos-flex/) | https://chromeos.google/products/chromeos-flex/ | Google operating system for compatible PCs with a locked-down, cloud-focused desktop experience. |
 | [OpenBSD](https://www.openbsd.org/) | https://www.openbsd.org/ | BSD operating system with a strong focus on security, auditing, and secure defaults. |
 
+🪟 Windows-Based Operating Systems
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [ReactOS](https://reactos.org/) | https://reactos.org/ | Open-source operating system designed to be compatible with Windows applications and drivers while being developed independently. |
+| [Tiny Windows](https://tiny10.win/) | https://tiny10.win/ | Unofficial lightweight Windows project focused on reducing unnecessary components from Windows installations. |
+| [NTLite](https://www.ntlite.com/) | https://www.ntlite.com/ | Windows customization and deployment software used to create customized Windows installation images rather than a standalone operating system. |
+| [WinPE](https://learn.microsoft.com/windows-hardware/manufacture/desktop/winpe-intro) | https://learn.microsoft.com/windows-hardware/manufacture/desktop/winpe-intro | Microsoft's Windows Preinstallation Environment, a lightweight Windows environment commonly used for deployment, recovery, and maintenance. |
+| [Windows IoT Enterprise](https://learn.microsoft.com/windows/iot/iot-enterprise/) | https://learn.microsoft.com/windows/iot/iot-enterprise/ | Windows edition designed for specialized devices and embedded/industrial deployments. |
+| [Windows 11](https://www.microsoft.com/windows/windows-11) | https://www.microsoft.com/windows/windows-11 | Microsoft's current desktop Windows operating system and the basis for many customized Windows installation projects. |
+
 ## 🔄 Automatic Updates
 
 This file is regenerated automatically whenever `README.md` changes on `main`.
