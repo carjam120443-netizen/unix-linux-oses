@@ -39,6 +39,42 @@ A central list of official websites for the operating systems documented in `REA
 | [Q4OS](https://www.q4os.org/) | https://www.q4os.org/ | Debian-based distribution designed to be easy to use and comfortable for users familiar with traditional desktop systems. |
 | [Manjaro](https://manjaro.org/) | https://manjaro.org/ | User-friendly Arch-based distribution that provides an easier introduction to the Arch ecosystem. |
 
+🌀 Debian-Based Linux Distributions
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [Ubuntu](https://ubuntu.com/) | https://ubuntu.com/ | One of the most popular Debian-derived distributions, with a huge software ecosystem and many official flavors. |
+| [Linux Mint](https://linuxmint.com/) | https://linuxmint.com/ | Beginner-friendly desktop distribution based primarily on Ubuntu and Debian. |
+| [Kali Linux](https://www.kali.org/) | https://www.kali.org/ | Debian-based distribution focused on security testing and digital forensics. |
+| [MX Linux](https://mxlinux.org/) | https://mxlinux.org/ | Debian-based distribution focused on stability, performance, and easy administration. |
+| [elementary OS](https://elementary.io/) | https://elementary.io/ | Ubuntu-based desktop distribution with the Pantheon desktop environment. |
+| [Deepin](https://www.deepin.org/) | https://www.deepin.org/ | Debian-based distribution known for its polished graphical desktop environment. |
+| [Q4OS](https://www.q4os.org/) | https://www.q4os.org/ | Lightweight Debian-based distribution with a traditional desktop experience. |
+| [antiX](https://antixlinux.com/) | https://antixlinux.com/ | Lightweight Debian-based distribution designed for older and lower-powered computers. |
+| [Devuan](https://www.devuan.org/) | https://www.devuan.org/ | Debian fork focused on providing an init system choice without systemd as the default. |
+| [Peppermint OS](https://peppermintos.com/) | https://peppermintos.com/ | Lightweight Ubuntu/Debian-based desktop distribution focused on a simple, efficient workflow. |
+| [PureOS](https://pureos.net/) | https://pureos.net/ | Debian-based distribution focused on free software, privacy, and security. |
+| [Parrot OS](https://www.parrotsec.org/) | https://www.parrotsec.org/ | Debian-based distribution designed for security, privacy, development, and forensics. |
+| [Bodhi Linux](https://www.bodhilinux.com/) | https://www.bodhilinux.com/ | Lightweight Ubuntu-based distribution using the Moksha desktop. |
+| [Lubuntu](https://lubuntu.me/) | https://lubuntu.me/ | Official Ubuntu flavor using the lightweight LXQt desktop. |
+
+🏹 Arch-Based Linux Distributions
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [Arch Linux](https://archlinux.org/) | https://archlinux.org/ | The upstream distribution itself, known for minimalism, customization, and the AUR. |
+| [CachyOS](https://cachyos.org/) | https://cachyos.org/ | Performance-focused Arch-based distribution with optimized packages, kernels, and system configurations. |
+| [Manjaro](https://manjaro.org/) | https://manjaro.org/ | User-friendly Arch-based distribution with graphical installers and multiple desktop editions. |
+| [EndeavourOS](https://endeavouros.com/) | https://endeavouros.com/ | Lightweight Arch-based distribution designed to provide a relatively close-to-Arch experience with an easier installation process. |
+| [Garuda Linux](https://garudalinux.org/) | https://garudalinux.org/ | Arch-based distribution with desktop-focused editions, performance tweaks, and graphical system tools. |
+| [ArcoLinux](https://arcolinux.com/) | https://arcolinux.com/ | Arch-based project focused heavily on learning, customization, and different levels of installation complexity. |
+| [RebornOS](https://rebornos.org/) | https://rebornos.org/ | Arch-based distribution providing an easier graphical installation and a selection of desktop environments. |
+| [BlackArch](https://www.blackarch.org/) | https://www.blackarch.org/ | Arch-based penetration-testing distribution with a large collection of security tools. |
+| [Athena OS](https://athenaos.org/) | https://athenaos.org/ | Arch-based cybersecurity-oriented distribution with security and penetration-testing tools. |
+| [Artix Linux](https://artixlinux.org/) | https://artixlinux.org/ | Arch-based distribution that offers alternatives to systemd and supports several init systems. |
+| [Archcraft](https://archcraft.io/) | https://archcraft.io/ | Minimal Arch-based desktop distribution focused on lightweight window-manager setups and customization. |
+| [Vanilla Arch](https://archlinux.org/) | https://archlinux.org/ | The upstream Arch Linux approach, emphasizing user configuration and a minimal base. |
+
 🪶 Lightweight Linux Distributions
 
 | Distribution | Official Website | Description |
