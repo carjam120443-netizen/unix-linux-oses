@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://opensource.org/" title="Open Source Initiative"><img src="https://opensource.org/wp-content/uploads/2024/02/OSI-logo.svg" alt="Open Source Initiative logo" width="150"></a>
+  <a href="https://opensource.org/" title="Open Source Initiative"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/opensourceinitiative.svg" alt="Open Source Initiative logo" width="150"></a>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tux.svg" alt="Tux, the Linux mascot" width="180">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/UNIX_logo.svg" alt="UNIX logo" width="220">
 </p>
@@ -132,4 +132,4 @@ This repository may include ISO images, installation media, archives, and other 
 
 This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, Microsoft, or other companies and projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
 
-> **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes.
+> **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes. The Open Source Initiative logo is a trademark of the Open Source Initiative.
