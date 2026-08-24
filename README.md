@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tux.svg" alt="Tux, the Linux mascot" width="180">
+</p>
+
 # Unix & Linux OSes 🐧
 
 A collection of Unix-like and Linux operating systems, useful for exploring different distributions, desktop environments, package managers, and OS projects. This repository also contains selected ISO images and other files for testing and experimentation.
