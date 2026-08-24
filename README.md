@@ -64,7 +64,21 @@ This section covers Unix and Unix-derived operating systems that are not Linux d
 - [MINIX 3](https://www.minix3.org/) — Small Unix-like operating system designed with an emphasis on reliability, modularity, and education.
 - [SerenityOS](https://serenityos.org/) — Unix-like hobby operating system built from scratch with its own desktop environment and applications.
 
-> ℹ️ Some systems in this section are proprietary or require specific hardware, while others are open source and suitable for experimentation in a VM.
+## 🔒 Locked-Down & Security-Focused Operating Systems
+
+These operating systems are designed with stronger security boundaries, reduced attack surfaces, privacy, immutable or read-only system components, or other restrictions that make the system more controlled than a typical desktop Linux installation.
+
+- [Qubes OS](https://www.qubes-os.org/) — Security-focused operating system that isolates applications and tasks into separate virtual machines.
+- [Tails](https://tails.net/) — Privacy-focused Debian-based live operating system designed to leave as little trace as practical on the computer it runs from.
+- [Whonix](https://www.whonix.org/) — Privacy-focused operating system designed around isolation and routing network traffic through Tor.
+- [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/) — Immutable Fedora desktop using an image-based operating system model and atomic updates.
+- [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/) — Immutable Fedora desktop built around KDE Plasma and an image-based update model.
+- [openSUSE Aeon](https://aeondesktop.org/) — Immutable, transactional openSUSE desktop designed around automated updates and a controlled base system.
+- [Vanilla OS](https://vanillaos.org/) — Linux desktop operating system emphasizing immutability, atomic updates, and containerized workflows.
+- [ChromeOS Flex](https://chromeos.google/products/chromeos-flex/) — Google operating system for compatible PCs with a locked-down, cloud-focused desktop experience.
+- [OpenBSD](https://www.openbsd.org/) — BSD operating system with a strong focus on security, auditing, and secure defaults.
+
+> 🔐 “Locked-down” can mean different things: some of these systems are immutable, some isolate applications, and others prioritize privacy or secure defaults.
 
 ## 📁 Files & ISOs
 
@@ -78,6 +92,7 @@ This repository may include ISO images, installation media, archives, and other 
 - Compare desktop environments and system tools
 - Explore different package managers and BSD ports/package systems
 - Learn about the history and different branches of the Unix family
+- Explore immutable, privacy-focused, and security-oriented operating systems
 - Keep useful OS installation media in one place
 - Experiment with Unix-like operating systems
 
