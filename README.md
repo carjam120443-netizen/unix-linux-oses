@@ -26,6 +26,24 @@ Here are some popular Linux distributions and their official websites:
 - [NixOS](https://nixos.org/) — Linux distribution built around declarative system configuration and the Nix package manager.
 - [Athena OS](https://athenaos.org/) — Arch-based Linux distribution focused on cybersecurity, privacy, and penetration-testing tools.
 
+## 🐣 Linux Distributions for Beginners
+
+These distributions are good starting points for people who are new to Linux, especially users coming from Windows or macOS. They generally emphasize graphical tools, easy installation, sensible defaults, and strong documentation or community support.
+
+- [Linux Mint](https://linuxmint.com/) — Beginner-friendly Ubuntu/Debian-based desktop distribution with a traditional desktop experience.
+- [Ubuntu](https://ubuntu.com/) — Popular Debian-based distribution with extensive documentation, community support, and software availability.
+- [Zorin OS](https://zorin.com/os/) — Designed specifically to make switching from Windows or macOS easier, with familiar desktop layouts.
+- [Fedora Workstation](https://fedoraproject.org/workstation/) — Polished desktop Linux with modern software and a straightforward GNOME experience.
+- [Pop!_OS](https://system76.com/pop/) — Ubuntu-based desktop distribution with a streamlined workflow and good hardware support.
+- [elementary OS](https://elementary.io/) — User-friendly Ubuntu-based desktop distribution with a simple, polished interface.
+- [Kubuntu](https://kubuntu.org/) — Ubuntu flavor using the KDE Plasma desktop, offering a familiar and highly customizable interface.
+- [Lubuntu](https://lubuntu.me/) — Lightweight Ubuntu flavor using LXQt and suitable for less powerful computers.
+- [MX Linux](https://mxlinux.org/) — Debian-based distribution focused on stability, ease of use, and useful graphical administration tools.
+- [Q4OS](https://www.q4os.org/) — Debian-based distribution designed to be easy to use and comfortable for users familiar with traditional desktop systems.
+- [Manjaro](https://manjaro.org/) — User-friendly Arch-based distribution that provides an easier introduction to the Arch ecosystem.
+
+> 💡 **Tip:** Linux Mint, Zorin OS, and Ubuntu are especially approachable choices for a first Linux installation. Trying them in a VM first is a great way to experiment without changing your main system.
+
 ## 🪶 Lightweight Linux Distributions
 
 These distributions are included because their installation media is relatively small compared with many mainstream desktop Linux distributions. ISO sizes are approximate and can change between releases and editions.
