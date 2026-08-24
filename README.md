@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tux.svg" alt="Tux, the Linux mascot" width="180">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/UNIX_logo.svg/1200px-UNIX_logo.svg.png" alt="UNIX logo" width="220">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/UNIX_logo.svg" alt="UNIX logo" width="220">
 </p>
 
 # Unix & Linux OSes 🐧
@@ -101,4 +101,4 @@ This repository may include ISO images, installation media, archives, and other 
 
 This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, or companies listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
 
-> **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes. citeturn0search0turn0search11
+> **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes.
