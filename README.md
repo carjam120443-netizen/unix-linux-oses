@@ -4,7 +4,7 @@
 
 # Unix & Linux OSes 🐧
 
-A collection of Unix-like and Linux operating systems, useful for exploring different distributions, desktop environments, package managers, and OS projects. This repository also contains selected ISO images and other files for testing and experimentation.
+A collection of Unix-like, Linux, BSD, and other Unix-based operating systems, useful for exploring different distributions, desktop environments, package managers, and OS projects. This repository also contains selected ISO images and other files for testing and experimentation.
 
 ## 🌐 Popular Linux Distributions
 
@@ -52,6 +52,20 @@ BSD is a family of Unix-like operating systems descended from the Berkeley Softw
 - [MidnightBSD](https://www.midnightbsd.org/) — FreeBSD-derived desktop-oriented operating system.
 - [HardenedBSD](https://hardenedbsd.org/) — Security-enhanced FreeBSD-derived operating system.
 
+## 🖥️ Unix-Based Operating Systems
+
+This section covers Unix and Unix-derived operating systems that are not Linux distributions or BSD projects. These systems are useful for exploring the broader Unix ecosystem and its history.
+
+- [illumos](https://illumos.org/) — Open-source Unix operating system derived from OpenSolaris, providing a foundation for several modern systems.
+- [OpenIndiana](https://www.openindiana.org/) — Open-source Unix operating system based on illumos and descended from the OpenSolaris project.
+- [Oracle Solaris](https://www.oracle.com/solaris/) — Enterprise Unix operating system with a long history in servers, storage, and large-scale systems.
+- [AIX](https://www.ibm.com/it-infrastructure/power/os/aix) — IBM's Unix operating system for IBM Power systems.
+- [HP-UX](https://www.hpe.com/us/en/servers/hp-ux.html) — Hewlett Packard Enterprise's Unix operating system for supported enterprise systems.
+- [MINIX 3](https://www.minix3.org/) — Small Unix-like operating system designed with an emphasis on reliability, modularity, and education.
+- [SerenityOS](https://serenityos.org/) — Unix-like hobby operating system built from scratch with its own desktop environment and applications.
+
+> ℹ️ Some systems in this section are proprietary or require specific hardware, while others are open source and suitable for experimentation in a VM.
+
 ## 📁 Files & ISOs
 
 This repository may include ISO images, installation media, archives, and other OS-related files. These files are mainly intended for **VM testing, experimentation, and preservation**.
@@ -60,12 +74,13 @@ This repository may include ISO images, installation media, archives, and other 
 
 ## 🖥️ What You Can Do With This Repository
 
-- Test different Linux distributions and BSD operating systems in a virtual machine
+- Test different Linux distributions, BSD systems, and Unix-based operating systems in a virtual machine
 - Compare desktop environments and system tools
 - Explore different package managers and BSD ports/package systems
+- Learn about the history and different branches of the Unix family
 - Keep useful OS installation media in one place
 - Experiment with Unix-like operating systems
 
 ## 📜 Disclaimer
 
-This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, or Unix projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
+This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, or companies listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
