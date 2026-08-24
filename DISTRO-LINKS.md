@@ -23,6 +23,22 @@ A central list of official websites for the operating systems documented in `REA
 | [NixOS](https://nixos.org/) | https://nixos.org/ | Linux distribution built around declarative system configuration and the Nix package manager. |
 | [Athena OS](https://athenaos.org/) | https://athenaos.org/ | Arch-based Linux distribution focused on cybersecurity, privacy, and penetration-testing tools. |
 
+🐣 Linux Distributions for Beginners
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [Linux Mint](https://linuxmint.com/) | https://linuxmint.com/ | Beginner-friendly Ubuntu/Debian-based desktop distribution with a traditional desktop experience. |
+| [Ubuntu](https://ubuntu.com/) | https://ubuntu.com/ | Popular Debian-based distribution with extensive documentation, community support, and software availability. |
+| [Zorin OS](https://zorin.com/os/) | https://zorin.com/os/ | Designed specifically to make switching from Windows or macOS easier, with familiar desktop layouts. |
+| [Fedora Workstation](https://fedoraproject.org/workstation/) | https://fedoraproject.org/workstation/ | Polished desktop Linux with modern software and a straightforward GNOME experience. |
+| [Pop!_OS](https://system76.com/pop/) | https://system76.com/pop/ | Ubuntu-based desktop distribution with a streamlined workflow and good hardware support. |
+| [elementary OS](https://elementary.io/) | https://elementary.io/ | User-friendly Ubuntu-based desktop distribution with a simple, polished interface. |
+| [Kubuntu](https://kubuntu.org/) | https://kubuntu.org/ | Ubuntu flavor using the KDE Plasma desktop, offering a familiar and highly customizable interface. |
+| [Lubuntu](https://lubuntu.me/) | https://lubuntu.me/ | Lightweight Ubuntu flavor using LXQt and suitable for less powerful computers. |
+| [MX Linux](https://mxlinux.org/) | https://mxlinux.org/ | Debian-based distribution focused on stability, ease of use, and useful graphical administration tools. |
+| [Q4OS](https://www.q4os.org/) | https://www.q4os.org/ | Debian-based distribution designed to be easy to use and comfortable for users familiar with traditional desktop systems. |
+| [Manjaro](https://manjaro.org/) | https://manjaro.org/ | User-friendly Arch-based distribution that provides an easier introduction to the Arch ecosystem. |
+
 🪶 Lightweight Linux Distributions
 
 | Distribution | Official Website | Description |
