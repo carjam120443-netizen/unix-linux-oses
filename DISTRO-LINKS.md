@@ -104,6 +104,19 @@ A central list of official websites for the operating systems documented in `REA
 | [Feren OS](https://ferenos.weebly.com/) | https://ferenos.weebly.com/ | Ubuntu-based desktop Linux distribution focused on ease of use and a familiar graphical experience. |
 | [ReactOS](https://reactos.org/) | https://reactos.org/ | Open-source Windows-compatible operating system developed independently of Microsoft; included here because of its Windows compatibility, although it is **not Linux-based**. |
 
+🍎 macOS-Like Linux & Unix Systems
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [elementary OS](https://elementary.io/) | https://elementary.io/ | Ubuntu-based Linux distribution with the Pantheon desktop, strongly inspired by the simplicity and design language of macOS. |
+| [CutefishOS](https://cutefish-idea.github.io/) | https://cutefish-idea.github.io/ | Linux desktop project that aimed for a clean, modern interface with several macOS-like design elements. |
+| [PearOS](https://pearos.xyz/) | https://pearos.xyz/ | Linux project designed around a macOS-inspired desktop experience. |
+| [Deepin](https://www.deepin.org/) | https://www.deepin.org/ | Debian-based Linux distribution known for its polished desktop environment, dock, and macOS-like visual elements. |
+| [Ubuntu Budgie](https://ubuntubudgie.org/) | https://ubuntubudgie.org/ | Ubuntu flavor using Budgie, which can be configured with a dock and panel layout resembling macOS. |
+| [Zorin OS](https://zorin.com/os/) | https://zorin.com/os/ | Linux distribution with multiple desktop layouts, including configurations that can resemble macOS. |
+| [KDE Plasma](https://kde.org/plasma-desktop/) | https://kde.org/plasma-desktop/ | Linux/Unix desktop environment with extensive customization that can reproduce a macOS-style dock, panel, and workflow. |
+| [GNOME](https://www.gnome.org/) | https://www.gnome.org/ | Linux/Unix desktop environment whose extensions and themes can provide a macOS-like workflow and dock. |
+
 ## 🔄 Automatic Updates
 
 This file is regenerated automatically whenever `README.md` changes on `main`.
