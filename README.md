@@ -132,4 +132,4 @@ This repository may include ISO images, installation media, archives, and other 
 
 This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, Microsoft, or other companies and projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
 
-> **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes. The Open Source Initiative (OSI) logo is a trademark of the Open Source Initiative and is used for identification/reference purposes.
+> **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes.
