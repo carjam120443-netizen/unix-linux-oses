@@ -5,7 +5,7 @@
 
 # Unix & Linux OSes 🐧
 
-A collection of Unix-like, Linux, BSD, and other Unix-based operating systems, useful for exploring different distributions, desktop environments, package managers, and OS projects. This repository also contains selected ISO images and other files for testing and experimentation.
+A collection of Unix-like, Linux, BSD, Unix-based, and Windows-based operating systems, useful for exploring different distributions, desktop environments, package managers, and OS projects. This repository also contains selected ISO images and other files for testing and experimentation.
 
 ## 🌐 Popular Linux Distributions
 
@@ -79,7 +79,18 @@ These operating systems are designed with stronger security boundaries, reduced 
 - [ChromeOS Flex](https://chromeos.google/products/chromeos-flex/) — Google operating system for compatible PCs with a locked-down, cloud-focused desktop experience.
 - [OpenBSD](https://www.openbsd.org/) — BSD operating system with a strong focus on security, auditing, and secure defaults.
 
-> 🔐 “Locked-down” can mean different things: some of these systems are immutable, some isolate applications, and others prioritize privacy or secure defaults.
+## 🪟 Windows-Based Operating Systems
+
+This section covers operating systems and distributions based on the Windows ecosystem, including Windows-derived projects, Windows PE environments, and systems built around the Windows kernel or Windows compatibility technologies.
+
+- [ReactOS](https://reactos.org/) — Open-source operating system designed to be compatible with Windows applications and drivers while being developed independently.
+- [Tiny Windows](https://tiny10.win/) — Unofficial lightweight Windows project focused on reducing unnecessary components from Windows installations.
+- [NTLite](https://www.ntlite.com/) — Windows customization and deployment software used to create customized Windows installation images rather than a standalone operating system.
+- [WinPE](https://learn.microsoft.com/windows-hardware/manufacture/desktop/winpe-intro) — Microsoft's Windows Preinstallation Environment, a lightweight Windows environment commonly used for deployment, recovery, and maintenance.
+- [Windows IoT Enterprise](https://learn.microsoft.com/windows/iot/iot-enterprise/) — Windows edition designed for specialized devices and embedded/industrial deployments.
+- [Windows 11](https://www.microsoft.com/windows/windows-11) — Microsoft's current desktop Windows operating system and the basis for many customized Windows installation projects.
+
+> ℹ️ The Windows ecosystem is different from Linux and BSD: many Windows variants are proprietary, while projects such as ReactOS are open source. Some entries here are tools or environments rather than independent operating systems.
 
 ## 📁 Files & ISOs
 
@@ -89,16 +100,16 @@ This repository may include ISO images, installation media, archives, and other 
 
 ## 🖥️ What You Can Do With This Repository
 
-- Test different Linux distributions, BSD systems, and Unix-based operating systems in a virtual machine
+- Test different Linux distributions, BSD systems, Unix-based operating systems, and Windows-based systems in a virtual machine
 - Compare desktop environments and system tools
 - Explore different package managers and BSD ports/package systems
 - Learn about the history and different branches of the Unix family
 - Explore immutable, privacy-focused, and security-oriented operating systems
 - Keep useful OS installation media in one place
-- Experiment with Unix-like operating systems
+- Experiment with different operating-system families
 
 ## 📜 Disclaimer
 
-This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, or companies listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
+This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, Unix projects, Microsoft, or other companies and projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
 
 > **Trademark note:** UNIX® is a registered trademark of The Open Group. The UNIX logo is used here for identification/reference purposes.
