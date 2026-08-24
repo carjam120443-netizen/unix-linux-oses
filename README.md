@@ -35,6 +35,19 @@ These distributions are included because their installation media is relatively 
 - [MX Linux](https://mxlinux.org/) — Debian-based distribution focused on performance, stability, and ease of use. ~2–3 GB depending on edition.
 - [Linux Lite](https://www.linuxliteos.com/) — Beginner-friendly, lightweight Ubuntu-based desktop distribution. ~2–3 GB depending on release.
 
+## 🐡 BSD-Based Operating Systems
+
+BSD is a family of Unix-like operating systems descended from the Berkeley Software Distribution. These projects are not Linux distributions, but they fit naturally in a Unix/OS collection like this one.
+
+- [FreeBSD](https://www.freebsd.org/) — Powerful general-purpose BSD operating system known for performance, networking, storage, and servers.
+- [OpenBSD](https://www.openbsd.org/) — Security-focused BSD operating system with an emphasis on correctness, auditing, and secure-by-default design.
+- [NetBSD](https://www.netbsd.org/) — Portable BSD operating system known for running on a very wide range of hardware platforms.
+- [DragonFly BSD](https://www.dragonflybsd.org/) — BSD operating system focused on SMP scalability, clustering, and innovative filesystem and kernel designs.
+- [GhostBSD](https://www.ghostbsd.org/) — User-friendly FreeBSD-based desktop operating system.
+- [TrueNAS](https://www.truenas.com/) — Storage-focused operating system built around the FreeBSD-based TrueNAS CORE and Linux-based TrueNAS SCALE projects.
+- [MidnightBSD](https://www.midnightbsd.org/) — FreeBSD-derived desktop-oriented operating system.
+- [HardenedBSD](https://hardenedbsd.org/) — Security-enhanced FreeBSD-derived operating system.
+
 ## 📁 Files & ISOs
 
 This repository may include ISO images, installation media, archives, and other OS-related files. These files are mainly intended for **VM testing, experimentation, and preservation**.
@@ -43,12 +56,12 @@ This repository may include ISO images, installation media, archives, and other 
 
 ## 🖥️ What You Can Do With This Repository
 
-- Test different Linux distributions in a virtual machine
+- Test different Linux distributions and BSD operating systems in a virtual machine
 - Compare desktop environments and system tools
-- Explore different package managers
+- Explore different package managers and BSD ports/package systems
 - Keep useful OS installation media in one place
 - Experiment with Unix-like operating systems
 
 ## 📜 Disclaimer
 
-This repository is an unofficial collection and is not affiliated with the Linux distributions or Unix projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
+This repository is an unofficial collection and is not affiliated with the Linux distributions, BSD projects, or Unix projects listed above. For production installations, security-sensitive use, or the latest releases, always refer to the project's official website.
