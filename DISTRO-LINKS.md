@@ -73,7 +73,35 @@ A central list of official websites for the operating systems documented in `REA
 | [Athena OS](https://athenaos.org/) | https://athenaos.org/ | Arch-based cybersecurity-oriented distribution with security and penetration-testing tools. |
 | [Artix Linux](https://artixlinux.org/) | https://artixlinux.org/ | Arch-based distribution that offers alternatives to systemd and supports several init systems. |
 | [Archcraft](https://archcraft.io/) | https://archcraft.io/ | Minimal Arch-based desktop distribution focused on lightweight window-manager setups and customization. |
-| [Vanilla Arch](https://archlinux.org/) | https://archlinux.org/ | The upstream Arch Linux approach, emphasizing user configuration and a minimal base. |
+
+🎮 Gaming Linux Distributions
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [Bazzite](https://bazzite.gg/) | https://bazzite.gg/ | Fedora Atomic-based gaming-focused OS with Steam, gaming utilities, and support for desktop PCs and handhelds. |
+| [Nobara Linux](https://nobaraproject.org/) | https://nobaraproject.org/ | Fedora-based desktop distribution with gaming, multimedia, and hardware-related improvements. |
+| [Garuda Linux](https://garudalinux.org/) | https://garudalinux.org/ | Arch-based distribution with gaming-focused editions and performance-oriented tools. |
+| [CachyOS](https://cachyos.org/) | https://cachyos.org/ | Performance-focused Arch-based distribution with optimized kernels and packages that can be useful for gaming. |
+| [Nobara Steam Deck Edition](https://nobaraproject.org/) | https://nobaraproject.org/ | Gaming-oriented Nobara variant designed around a console-like experience. |
+| [ChimeraOS](https://chimeraos.org/) | https://chimeraos.org/ | Linux gaming operating system designed for a console-like Steam experience on PCs. |
+| [SteamOS](https://www.steampowered.com/steamos/) | https://www.steampowered.com/steamos/ | Valve's Linux-based gaming operating system used on Steam Deck and designed around Steam. |
+| [HoloISO](https://github.com/HoloISO/holoiso) | https://github.com/HoloISO/holoiso | Community project inspired by the SteamOS experience for compatible PCs. |
+| [Regata OS](https://www.regataos.com/) | https://www.regataos.com/ | Linux distribution with a focus on gaming, cloud gaming, and desktop usability. |
+| [PikaOS](https://wiki.pika-os.com/) | https://wiki.pika-os.com/ | Ubuntu-based gaming-oriented Linux project with gaming software and performance-focused configuration. |
+
+🪶🎮 Lightweight & Gaming-Friendly Linux Distributions
+
+| Distribution | Official Website | Description |
+|---|---|---|
+| [Lubuntu](https://lubuntu.me/) | https://lubuntu.me/ | Lightweight Ubuntu flavor using LXQt. A good base for a minimal gaming setup on modest hardware. ~1.5–2 GB ISO. |
+| [Linux Lite](https://www.linuxliteos.com/) | https://www.linuxliteos.com/ | Lightweight Ubuntu-based desktop distribution with a traditional interface and relatively modest system requirements. ~2–3 GB ISO. |
+| [MX Linux](https://mxlinux.org/) | https://mxlinux.org/ | Lightweight Debian-based distribution with strong hardware support and useful administration tools. ~2–3 GB ISO depending on edition. |
+| [Xubuntu](https://xubuntu.org/) | https://xubuntu.org/ | Ubuntu flavor using Xfce, offering a relatively lightweight desktop that can leave more resources available for games. ~2–3 GB ISO. |
+| [antiX](https://antixlinux.com/) | https://antixlinux.com/ | Very lightweight Debian-based distribution designed for older hardware. Not gaming-focused by default, but can be built into a minimal gaming system. ~1 GB ISO. |
+| [Bodhi Linux](https://www.bodhilinux.com/) | https://www.bodhilinux.com/ | Lightweight Ubuntu-based distribution using the Moksha desktop. Suitable for creating a minimal desktop environment before adding gaming tools. ~1 GB ISO. |
+| [Puppy Linux](https://puppylinux-woof-ce.github.io/) | https://puppylinux-woof-ce.github.io/ | Extremely lightweight Linux family that can run on low-resource systems. Gaming support varies significantly by edition and hardware. |
+| [SliTaz](https://www.slitaz.org/) | https://www.slitaz.org/ | Tiny Linux distribution with very small installation media. Best suited to lightweight or experimental gaming rather than modern AAA gaming. |
+| [Archcraft](https://archcraft.io/) | https://archcraft.io/ | Lightweight Arch-based desktop distribution focused on window-manager setups and low resource usage; gaming software can be added manually. |
 
 🪶 Lightweight Linux Distributions
 
